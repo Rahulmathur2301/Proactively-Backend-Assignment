@@ -2,4 +2,5 @@ mkdir speaker-booking-backend
 cd speaker-booking-backend
 npm init -y
 npm install express body-parser sequelize bcrypt jsonwebtoken nodemailer dotenv
-npm install mysql2 # Or pg for PostgreSQL
+npm install mysql2 
+
